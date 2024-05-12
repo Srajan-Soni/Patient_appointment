@@ -1,0 +1,47 @@
+
+.modalview{
+    margin-top: 10%;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalhead{
+    background-color: rgb(2, 2, 21);
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.modalview .modal-body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .modalview .modal-body p {
+    margin-bottom: 15px;
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
+    position: absolute;
+    left: 20px;
+  }
+
+  .modal-body{
+
+        text-align: center;
+
+  }
+
+  .modal-body div{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    /* border-bottom: 1px solid black; */
+    
+  }
+
+
+
+  
